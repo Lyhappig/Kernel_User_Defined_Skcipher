@@ -57,7 +57,7 @@ insmod xxx.ko
 
 ```bash
 depmod
-mod
+modprobe
 ```
 
 ## 注意事项
